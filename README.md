@@ -21,13 +21,13 @@ Welcome to the Madlibs game implemented in the C programming language! This inte
 2. **Compile the Code:**
    - Navigate to the project directory and compile the C code using a C compiler such as GCC:
      ```
-     gcc madlibs.c -o madlibs
+     gcc main.c -o madlibs
      ```
 
 3. **Run the Game:**
    - Execute the compiled program:
      ```
-     ./madlibs
+     ./main
      ```
 
 4. **Follow the Prompts:**
